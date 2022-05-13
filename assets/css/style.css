@@ -22,4 +22,9 @@ button{
     background-color:black;
     color:white;
     font-size: 15px;
+    width: 100%;
+}
+
+button:hover{
+color:wheat;
 }
